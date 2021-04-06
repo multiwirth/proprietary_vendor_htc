@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima/proprietary/etc/Handset_cal.acdb:system/etc/Handset_cal.acdb \
     vendor/htc/hima/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/htc/hima/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
-    vendor/htc/hima/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/htc/hima/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
     vendor/htc/hima/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
     vendor/htc/hima/proprietary/etc/firmware/alIAF_InData_4M2M:system/etc/firmware/alIAF_InData_4M2M \
